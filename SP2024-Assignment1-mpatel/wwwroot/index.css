@@ -8,12 +8,9 @@ div {
 
 #CoverArt {
     border-radius: 25%;
+    width: 600px;
 }
 
-#cast{
-    text-align:center;
-    padding-left:100px;
-    padding-right:100px;
-    margin-right:100px;
-    margin-left:100px;
+ul.no-bullets {
+    list-style-type: none;
 }
